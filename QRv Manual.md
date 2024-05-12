@@ -10,6 +10,7 @@
 3. [Working with QR Codes](#working-with-qr-codes)
     - [How to Scan a QR Code](#how-to-scan-a-qr-code)
     - [How to Generate and Download a QR Code](#how-to-generate-and-download-a-qr-code)
+    - [How to Generate ID Card](#how-to-generate-id-card)
 4. [Vehicle User Information](#vehicle-user-information)
     - [How to Add Vehicle User Info](#how-to-add-vehicle-user-info)
     - [How to Edit Vehicle User Info](#how-to-edit-vehicle-user-info)
@@ -45,6 +46,9 @@ _Instruction on how users can scan QR codes using the system's interface or a mo
 
 ### How to Generate and Download a QR Code
 _Steps to generate a new QR code for a vehicle or user and how to download it for use._
+
+### How to Generate ID Card
+_Steps to generate an ID card for a vehicle user or employee._
 
 ## Vehicle User Information
 
