@@ -79,3 +79,4 @@ _Detail how to locate and edit information for an existing QRV user._
 
 ### How to Delete a QRV User
 _Instructions for removing a QRV user from the system._
+https://youtu.be/SRkC6UiksdY
