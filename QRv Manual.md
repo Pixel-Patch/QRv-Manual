@@ -35,6 +35,7 @@ _Outline the steps for logging out of the system safely._
 
 ### How to Add an Admin
 _Describe the process for adding a new administrator to the system, including necessary permissions and settings._
+[https://youtu.be/gydTuPf3c4s](https://youtu.be/gydTuPf3c4s)
 
 ### How to Add an Employee
 _Explain how to add a new employee, detailing the information required and where to enter it._
@@ -74,9 +75,11 @@ _Explain how users can export logs of vehicle usage or trips, including format o
 ### How to Add a QRV User
 _Provide steps to add a QRV user, including any specific details needed for QRV users._
 
+
 ### How to Edit a QRV User
 _Detail how to locate and edit information for an existing QRV user._
-
+https://youtu.be/rRGtor8Z8o4
+ 
 ### How to Delete a QRV User
 _Instructions for removing a QRV user from the system._
 https://youtu.be/SRkC6UiksdY
