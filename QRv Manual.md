@@ -35,7 +35,8 @@ _Outline the steps for logging out of the system safely._
 ## Managing Accounts
 
 ### How to Add an Admin
-_[ https://youtu.be/gydTuPf3c4s](https://youtu.be/gydTuPf3c4s)
+[ https://youtu.be/gydTuPf3c4s](https://youtu.be/gydTuPf3c4s)
+
 _Describe the process for adding a new administrator to the system, including necessary permissions and settings._
 
 
