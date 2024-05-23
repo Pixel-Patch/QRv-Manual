@@ -2,8 +2,7 @@
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-    - [How to Login](#how-to-login)
-    - [How to Logout](#how-to-logout)
+    - [How to Login & Logout](#how-to-login-&-logout)
 2. [Managing Accounts](#managing-accounts)
     - [How to Add an Admin](#how-to-add-an-admin)
     - [How to Add an Employee](#how-to-add-an-employee)
@@ -26,11 +25,8 @@
 
 ## Getting Started
 
-### How to Login
-_Provide detailed steps on how users can log into the system._
-
-### How to Logout
-_Outline the steps for logging out of the system safely._
+### How to Login & Logout
+_Provide detailed steps on how users can log in and log out into the system._
 
 ## Managing Accounts
 
