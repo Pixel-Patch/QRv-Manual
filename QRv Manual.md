@@ -16,6 +16,7 @@
     - [How to Edit Vehicle User Info](#how-to-edit-vehicle-user-info)
     - [How to Delete Vehicle User Info](#how-to-delete-vehicle-user-info)
     - [How to Import Vehicle User Info](#how-to-import-vehicle-user-info)
+    - [How to Export Vehicle User Info](#how-to-export-vehicle-user-info)
 5. [Vehicle Logs](#vehicle-logs)
     - [How to Export Vehicle Log](#how-to-export-vehicle-log)
 6. [QRV Users](#qrv-users)
@@ -65,7 +66,7 @@ _Guide on entering new vehicle user information into the system._
 
 
 ### How to Edit Vehicle User Info
-[https://youtu.be/rRGtor8Z8o4] (https://youtu.be/rRGtor8Z8o4) 
+[https://youtu.be/rRGtor8Z8o4](https://youtu.be/rRGtor8Z8o4) 
 _Instructions for finding and editing existing vehicle user information._
 
 
@@ -76,6 +77,10 @@ _Procedure for safely deleting vehicle user information from the database._
 ### How to Import Vehicle User Info
 [https://youtu.be/9Et0KUoBmg0](https://youtu.be/9Et0KUoBmg0) 
 _Steps to import vehicle user information in bulk from an external source or file._
+
+### How to Export Vehicle User Info
+[https://youtu.be/C0KuDm2MaLY](https://youtu.be/C0KuDm2MaLY) 
+_Steps to export vehicle user information in bulk from an external source or file._
 
 
 ## Vehicle Logs
