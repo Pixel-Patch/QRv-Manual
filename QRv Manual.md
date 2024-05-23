@@ -35,12 +35,12 @@ _Outline the steps for logging out of the system safely._
 ## Managing Accounts
 
 ### How to Add an Admin
-[ https://youtu.be/gydTuPf3c4s](https://youtu.be/gydTuPf3c4s)
+_[ https://youtu.be/gydTuPf3c4s](https://youtu.be/gydTuPf3c4s)
 _Describe the process for adding a new administrator to the system, including necessary permissions and settings._
 
 
 ### How to Add an Employee
-[https://youtu.be/22jYB2mlOLc](https://youtu.be/22jYB2mlOLc)
+_[https://youtu.be/22jYB2mlOLc](https://youtu.be/22jYB2mlOLc)
 _Explain how to add a new employee, detailing the information required and where to enter it._
 
 
@@ -51,7 +51,7 @@ _Instruction on how users can scan QR codes using the system's interface or a mo
  
 
 ### How to Generate and Download a QR Code
-[https://youtu.be/50320xsHZhQ](https://youtu.be/50320xsHZhQ)
+_[https://youtu.be/50320xsHZhQ](https://youtu.be/50320xsHZhQ)
 _Steps to generate a new QR code for a vehicle or user and how to download it for use._
 
 
@@ -61,32 +61,32 @@ _Steps to generate an ID card for a vehicle user or employee._
 ## Vehicle User Information
 
 ### How to Add Vehicle User Info
-[ https://youtu.be/2ew6mkHI-LY](https://youtu.be/2ew6mkHI-LY)
+_[ https://youtu.be/2ew6mkHI-LY](https://youtu.be/2ew6mkHI-LY)
 _Guide on entering new vehicle user information into the system._
 
 
 ### How to Edit Vehicle User Info
-[https://youtu.be/rRGtor8Z8o4](https://youtu.be/rRGtor8Z8o4) 
+_[https://youtu.be/rRGtor8Z8o4](https://youtu.be/rRGtor8Z8o4) 
 _Instructions for finding and editing existing vehicle user information._
 
 
 ### How to Delete Vehicle User Info
-[https://youtu.be/tyvVd7vVZO4](https://youtu.be/tyvVd7vVZO4)
+_[https://youtu.be/tyvVd7vVZO4](https://youtu.be/tyvVd7vVZO4)
 _Procedure for safely deleting vehicle user information from the database._
 
 ### How to Import Vehicle User Info
-[https://youtu.be/9Et0KUoBmg0](https://youtu.be/9Et0KUoBmg0) 
+_[https://youtu.be/9Et0KUoBmg0](https://youtu.be/9Et0KUoBmg0) 
 _Steps to import vehicle user information in bulk from an external source or file._
 
 ### How to Export Vehicle User Info
-[https://youtu.be/C0KuDm2MaLY](https://youtu.be/C0KuDm2MaLY) 
+_[https://youtu.be/C0KuDm2MaLY](https://youtu.be/C0KuDm2MaLY) 
 _Steps to export vehicle user information in bulk from an external source or file._
 
 
 ## Vehicle Logs
 
 ### How to Export Vehicle Log
-[https://youtu.be/2sdnQFBhO3k](https://youtu.be/2sdnQFBhO3k)
+_[https://youtu.be/2sdnQFBhO3k](https://youtu.be/2sdnQFBhO3k)
 _Explain how users can export logs of vehicle usage or trips, including format options._
 
 
@@ -101,6 +101,6 @@ _Detail how to locate and edit information for an existing QRV user._
  
  
 ### How to Delete a QRV User
-[https://youtu.be/SRkC6UiksdY](https://youtu.be/SRkC6UiksdY)
+_[https://youtu.be/SRkC6UiksdY](https://youtu.be/SRkC6UiksdY)
 _Instructions for removing a QRV user from the system._
 
