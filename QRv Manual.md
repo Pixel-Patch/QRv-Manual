@@ -26,6 +26,7 @@
 ## Getting Started
 
 ### How to Login & Logout
+[https://youtu.be/mmoHoBOwyEQ](https://youtu.be/mmoHoBOwyEQ)
 _Provide detailed steps on how users can log in and log out into the system._
 
 ## Managing Accounts
