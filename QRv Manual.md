@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-    - [How to Login & Logout](#how-to-login-&-logout)
+    - [How to Login & Logout](#how-to-login--logout)
 2. [Managing Accounts](#managing-accounts)
     - [How to Add an Admin](#how-to-add-an-admin)
     - [How to Add an Employee](#how-to-add-an-employee)
@@ -27,6 +27,7 @@
 
 ### How to Login & Logout
 [https://youtu.be/mmoHoBOwyEQ](https://youtu.be/mmoHoBOwyEQ)
+
 _Provide detailed steps on how users can log in and log out into the system._
 
 ## Managing Accounts
