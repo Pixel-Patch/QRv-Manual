@@ -100,10 +100,14 @@ _Explain how users can export logs of vehicle usage or trips, including format o
 ## QRV Users
 
 ### How to Add a QRV User
+[https://youtu.be/bcpaq5SoPZY](https://youtu.be/bcpaq5SoPZY)
+
 _Provide steps to add a QRV user, including any specific details needed for QRV users._
 
 
 ### How to Edit a QRV User
+[https://youtu.be/DVP26gjwrJw](https://youtu.be/DVP26gjwrJw)
+
 _Detail how to locate and edit information for an existing QRV user._
  
  
